@@ -1,3 +1,15 @@
+/**
+* <h1>SmartTv</h1>
+* A classe SmartTv foi criada com o intuito de simular um sistema de smartTV, ela realiza operações como alterar canal, aumentar volume e desligar/ligar
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos
+*
+* @author  Guilherme Roupe
+* @version 1.0
+* @since   01/05/2024
+*/
+
 public class SmartTv {
   boolean ligada = false;
   int canal = 1;
