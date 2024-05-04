@@ -15,5 +15,6 @@ public class ResultadoEscolar {
       String resultado = nota >= 7 ? "Aluno aprovado" : "Aluno reprovado";
       System.out.println(resultado);
     }
+    scanner.close();
   }
 }
