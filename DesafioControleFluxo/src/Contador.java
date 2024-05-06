@@ -1,3 +1,15 @@
+/**
+* <h1>Contador</h1>
+* A classe Contador foi criada com o intuito de simular a contagem da diferença entre o segundo parâmetro e o segundo
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos
+*
+* @author  Guilherme Roupe
+* @version 1.0
+* @since   06/05/2024
+*/
+
 import java.util.Scanner;
 
 public class Contador {
