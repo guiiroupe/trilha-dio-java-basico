@@ -96,7 +96,7 @@ public class ListaTarefas {
     System.out.println(listaTarefas.obterTarefasPendentes());
 
     // Marcando tarefas como concluídas
-    //listaTarefas.marcarTarefaConcluida("Ler livro");
+    listaTarefas.marcarTarefaConcluida("Ler livro");
     listaTarefas.marcarTarefaConcluida("Estudar Java");
 
     // Obtendo tarefas concluídas
